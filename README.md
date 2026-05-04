@@ -11,4 +11,4 @@ C++
 
 ## 📌 Progress
 - Started with conditinals
-- Attern printing
+- Pattern printing
