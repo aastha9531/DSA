@@ -1,12 +1,14 @@
 # DSA Practice 🚀
 
-This repository contains my Data Structures and Algorithms practice.
+This repository contains my DSA learning journey.
 
-## 📂 Topics Covered
-- Patterns (Started)
+## 📂 Structure
+- patterns → basic pattern problems
+- basics → beginner C++ logic problems
 
 ## 💻 Language
-- C++
+C++
 
 ## 📌 Progress
-- Day 1: Pattern Printing
+- Started with conditinals
+- Attern printing
