@@ -1,6 +1,12 @@
 #include<iostream>
 using namespace std;
 
+/*
+*****
+*****
+*****
+*****
+*****/
 void pattern1(int n)
 {
     for (int i=0;i<n;i++)
@@ -13,6 +19,11 @@ void pattern1(int n)
     }
 }
 
+/*
+**
+***
+****
+*****/
 void pattern2(int n)
 {
     for(int i=0;i<n;i++)
@@ -24,7 +35,13 @@ void pattern2(int n)
         cout<<endl;
     }
 }
-
+/*
+1
+12
+123
+1234
+12345
+    */
 void pattern3(int n)
 
 {
@@ -40,7 +57,14 @@ void pattern3(int n)
         cout<<endl;
     }
 }
- 
+
+/*
+1
+22
+333
+4444
+55555
+    */
 void pattern4(int n)
 {
     for(int i=1;i<=n;i++)
@@ -52,7 +76,13 @@ void pattern4(int n)
         cout<<endl;
     }
 }
-
+/*
+*****
+****
+***
+**
+*
+    */
 void pattern5(int n)
 {
     for(int i=1;i<=n;i++)
@@ -64,6 +94,14 @@ void pattern5(int n)
         cout<<endl;
     }
 }
+
+/*
+12345
+1234
+123
+12
+1
+    */
 void pattern6(int n)
 {
     for(int i=n;i>=1;i--)
@@ -75,6 +113,13 @@ void pattern6(int n)
         cout<<endl;
     }
 }
+/*
+    *   
+   ***  
+  ***** 
+ *******
+*********
+    */
 
 void pattern7(int n)
 {
@@ -99,6 +144,14 @@ void pattern7(int n)
     cout << endl;
 }
 }
+/*
+*********
+ ******* 
+  *****  
+   ***   
+    *  
+
+    */
 
 void pattern8(int n)
 {
@@ -122,6 +175,17 @@ void pattern8(int n)
         cout<<endl;
     }
 }
+/*
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+    */
 
 void pattern10(int n)
 {
@@ -142,6 +206,13 @@ void pattern10(int n)
 }
 }
 
+/*
+1
+01
+101
+0101
+10101
+    */
 void pattern11(int n)
 {
     for (int i=0;i<n;i++)
@@ -160,6 +231,13 @@ void pattern11(int n)
         cout<<endl;
     }
 }
+/*
+1        1
+12      21
+123    321
+1234  4321
+1234554321
+    */
 
 void pattern12(int n)
 {
@@ -184,7 +262,13 @@ void pattern12(int n)
         cout<<endl;
 }
 }
-
+/*
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+    */
 void pattern13(int n)
 {
             int num=1;
@@ -199,7 +283,13 @@ void pattern13(int n)
         cout<<endl;
     }
 }
-
+/*
+A 
+A B 
+A B C 
+A B C D 
+A B C D E 
+*/
 void pattern14(int n)
 {
     for(int i=0;i<n;i++)
@@ -213,6 +303,13 @@ void pattern14(int n)
     }
 }
 
+/*
+A B C D E 
+A B C D 
+A B C 
+A B 
+A
+    */
 void pattern15(int n)
 {
     for(int i=n;i>=1;i--)
@@ -224,6 +321,14 @@ void pattern15(int n)
         cout<<endl;
     }
 }
+/*
+A 
+B B 
+C C C 
+D D D D 
+E E E E E 
+    */
+
 void pattern16(int n)
 {
     for(char i='A';i<'A'+n;i++)
@@ -234,7 +339,13 @@ void pattern16(int n)
         }
         cout<<endl;
     }
-}
+}/*
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
+    */
 
 void pattern17(int n)
 {
@@ -261,6 +372,13 @@ void pattern17(int n)
     cout << endl;
 }
 }
+/*
+E 
+D E 
+C D E 
+B C D E 
+A B C D E 
+    */
 void pattern18(int n)
 {
     for (int i=0;i<n;i++)
