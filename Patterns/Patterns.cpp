@@ -280,6 +280,23 @@ int main()
     int n;
     cout<<"Enter the number of rows: ";
     cin>>n;
+
+        pattern1(n);
+        pattern2(n);
+        pattern3(n);
+        pattern4(n);        
+        pattern5(n);
+        pattern6(n);    
+        pattern7(n);
+        pattern8(n);
+        pattern10(n);
+        pattern11(n);
+        pattern12(n);
+        pattern13(n);
+        pattern14(n);
+        pattern15(n);
+        pattern16(n);
+        pattern17(n);
     pattern18(n);
     return 0;
 }
