@@ -4,13 +4,33 @@ This repository contains my journey of learning Data Structures and Algorithms (
 
 I am currently focusing on building strong fundamentals by practicing basic problems and improving my problem-solving skills step by step.
 
-## 📂 Topic COvered
-- Basics → conditional problems
-- Patterns
+## 📂 Topics Covered
+
+### 🔹 Basics
+
+* Conditional statements
+* Basic maths problems
+* Basic math LeetCode questions
+
+### 🔹 Patterns
+
+* Striver pattern questions
+
+### 🔹 Sorting
+
+* Selection Sort
+* Bubble Sort
+* Insertion Sort
+
+### 🔹 Recursion
+
+* Basic recursion problems
+
+---
 
 ## 💻 Language
-C++
 
-## 📌 Progress
-- Started with conditinals
-- Pattern printing
+* C++
+
+---
+⭐ This repository will keep getting updated as I continue my DSA journey.
