@@ -8,7 +8,6 @@ I am currently focusing on building strong fundamentals by practicing basic prob
 
 ### 🔹 Basics
 
-* Conditional statements
 * Basic maths problems
 * Basic math LeetCode questions
 
